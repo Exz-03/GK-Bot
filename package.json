@@ -70,8 +70,7 @@
     "spinnies": "^0.5.1",
     "syntax-error": "*",
     "util": "^0.12.4",
-    "yargs": "^17.2.1",
-    "ytdl-core": "^4.11.0"
+    "yargs": "^17.2.1"
   },
   "devDependencies": {},
   "repository": {
